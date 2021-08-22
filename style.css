@@ -80,6 +80,9 @@ body {
     color: #585858;
     transition: 0.75s ease;
 }
+.btn button a {
+text-decoration: none;
+}
 
 button.active {
     background: #585858;
