@@ -22,7 +22,7 @@ body {
 
 .card {
     transform-style: preserve-3d;
-    min-height: 25vh;
+    min-height: 35vh;
     width: 50vh;
     border-radius: 30px;
     padding: 0rem 5rem;
